@@ -94,3 +94,13 @@ Once both servers are running:
 - If any port conflicts occur, update the `package.json` scripts or the respective environment configurations.\
 
 - Ensure both the frontend and backend are running simultaneously for the application to function correctly.
+<img width="916" alt="Screenshot 2024-09-09 at 1 56 15 PM" src="https://github.com/user-attachments/assets/5c2491a2-64f9-4aa7-9dab-996d6c1c91df">
+
+<img width="768" alt="Screenshot 2024-09-09 at 1 56 56 PM" src="https://github.com/user-attachments/assets/a2b1815c-11e5-4240-8da9-d7b71b2ac145">
+
+<img width="800" alt="Screenshot 2024-09-09 at 1 57 28 PM" src="https://github.com/user-attachments/assets/21dfb5f3-f9f5-46bb-807e-dc010a1f069d">
+
+
+
+
+- 
