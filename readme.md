@@ -1,4 +1,4 @@
-# Developer Aptitude Test
+# Search For People
 
 This is a full-stack project that allows users to view and search for people using data from the Star Wars API (SWAPI).
 
